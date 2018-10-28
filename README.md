@@ -3,6 +3,9 @@
 Copy to %appdata%/Factorio/mods
 
 # Admin setup commands
+
+/c game.map_settings.enemy_expansion.enabled = false
+
 /c game.player.force.recipes["logistic-chest-buffer"].enabled=false
 
 /c game.player.force.recipes["logistic-chest-requester"].enabled=false
